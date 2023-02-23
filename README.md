@@ -2,7 +2,7 @@ debuggy-sdk-android
 -------------
 Debug tool SDK for network calls
 
-[![](https://jitpack.io/v/rrohaill/debuggy-sdk-android.svg)](https://jitpack.io/#rrohaill/debuggy-sdk-android)
+[![](https://jitpack.io/v/GetEliq/debuggy-sdk-android.svg)](https://jitpack.io/#GetEliq/debuggy-sdk-android)
 
 Introduction
 --------

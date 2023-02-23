@@ -20,10 +20,10 @@ def getGroupId = { ->
 }
 
 // Prepare URL of maven package.
-// Replace 'rrohaill' with your github repo's username or organization name.
+// Replace 'GetEliq' with your github repo's username or organization name.
 // Replace 'debuggy-sdk-android' with the name of github repo
 def getGitHubUrl = { ->
-    return "https://maven.pkg.github.com/rrohaill/debuggy-sdk-android"
+    return "https://maven.pkg.github.com/GetEliq/debuggy-sdk-android"
 }
 
 android {
