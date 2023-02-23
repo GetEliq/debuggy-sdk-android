@@ -58,7 +58,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-    implementation 'com.github.rrohaill:debuggy-sdk-android:0.0.3'
+    implementation 'com.github.GetEliq:debuggy-sdk-android:0.0.1'
 }
 ```
 
@@ -75,9 +75,9 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 ```xml
 <dependency>
-    <groupId>com.github.rrohaill</groupId>
+    <groupId>com.github.GetEliq</groupId>
     <artifactId>debuggy-sdk-android</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 
